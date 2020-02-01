@@ -1,29 +1,26 @@
 # datasciencemedium
 Repositoty for medium blog post.
-
-
+  
+  
 # First Article
+  
 
 ## Article Goals
-Improve my autority in DS, Data Eng and Business Analyts
-Discovery more about this carrear (DS, DA, DataEng.)
-Get to lead my team better
-
+Improve my autority in DS, Data Eng and Business Analyts.  
+Discovery more about this carrear (DS, DA, DataEng.).  
+Get to lead my team better.  
+  
 
 ## Topics Brain Storm
-What are the key tools for any DS, Data.Eng., Data Analyst?
-How is the evolution of their carrear on salary?
-How is the evolution of their carrear on salary?
-
-
+What are the key tools for any DS, Data.Eng., Data Analyst?  
+How is the evolution of their carrear on salary?  
+How is the evolution of their carrear on salary?  
+  
 
 ## Data Source
-https://insights.stackoverflow.com/survey/2019
-https://insights.stackoverflow.com/survey
-
-
-
-
+https://insights.stackoverflow.com/survey/2019  
+https://insights.stackoverflow.com/survey  
+  
 
 ## Header - Glossary
 'Respondent'
