@@ -1,12 +1,30 @@
 # datasciencemedium
-Repositoty for medium blog post.
-  
-  
-# DataJobs - StackOverflow Survey 2019
-Link to article: https://medium.com/@renanvieiradias
-  
+This repositoty has the contents for medium blog post called *What data says about data jobs*.
+The article was created to undestand better jobs in data area.
+You can check it in the following link: https://medium.com/@renanvieiradias
 
-### Article Goals
+
+### Table of Contents
+
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
+
+
+## Installation <a name="installation"></a>
+The python version, and libraries needed are:
+ - Python 2.7
+ - NumPy
+ - Pandas
+ - scikit-learn
+ - matplotlib
+You will also need to have software installed to run and execute a Jupyter Notebook
+
+
+## Project Motivation<a name="motivation"></a>
+This article is created to better understand data jobs in the following aspects:
  - Which skills and technologies each data job require?
  The goal with this question is to understand which Languages, Databases, Platforms, Web Framework and Dev Environment is used by each data job.
  - How is the distribution of salary in the top respondents countries?
@@ -15,33 +33,20 @@ Link to article: https://medium.com/@renanvieiradias
  The goal is to make a predictor of salary based on your knowledge and skills. 
    
 
-### Data Source
-https://insights.stackoverflow.com/survey/2019  
-https://insights.stackoverflow.com/survey
-  
-### Links to learn
- - Salary blog: https://stackoverflow.blog/2019/10/16/coding-salaries-in-2019-updating-the-stack-overflow-salary-calculator/
- 	- Calculator: https://stackoverflow.com/jobs/salary
- - AWS: https://www.youtube.com/watch?v=a9__D53WsUs
- - SQL: https://en.wikipedia.org/wiki/SQL
- 	- codeacademy: https://www.codecademy.com/learn/learn-sql
- 	- udacity: https://www.udacity.com/course/sql-for-data-analysis--ud198
- 	- w3school: https://www.w3schools.com/sql/default.asp
- 	- datacamp: https://www.datacamp.com/courses/introduction-to-sql
- - python: https://www.python.org/about/
- 	- pandas: https://pandas.pydata.org/about/index.html
- - R: https://www.r-project.org/about.html
- - C: https://en.wikipedia.org/wiki/C_(programming_language)
- - java: https://java.com/en/download/faq/whatis_java.xml
- - Web Framework: https://en.wikipedia.org/wiki/Web_framework
- - docker: https://www.docker.com/why-docker
- - Flask: https://palletsprojects.com/p/flask/
- - django: https://www.djangoproject.com/start/overview/
- - tensorflow: https://www.tensorflow.org/
- - pytorch: https://pytorch.org/
- - sparky: https://spark.apache.org/
- - hadoop: https://hadoop.apache.org/
- - jupyter: https://jupyter.org/
- - Microsoft SQL server: https://www.microsoft.com/en-us/sql-server/sql-server-2019
- - Oracle: https://www.oracle.com/database/
- - Mysql: https://www.mysql.com/
+## File Descriptions <a name="files"></a>
+ - article_datajobs_stackoverflowsurvey2019/datajobs_stackoverflowsurvey2019.ipynb: is the main notebook. The analysis is here.
+ - article_datajobs_stackoverflowsurvey2019/images: got all the images used on the article
+ - article_datajobs_stackoverflowsurvey2019/article_links.md: has the links used on the article.
+ - article__test: material to test the medium functionalities.
+ - article_datajobs_stackoverflowsurvey2019/developer_survey_2019: you can find the survey pdf and metadata.
+
+
+## Results<a name="results"></a>
+
+The main findings of the code can be found at the post available (https://medium.com/@renanvieiradias/what-data-tells-about-data-jobs-ad785fb07a09).
+
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+Credit to Stack Overflow for the survey data.  You can find the Licensing for the data and other descriptive information in the link available [here](https://insights.stackoverflow.com/survey/2019).
+Acknowledgements to Udacity for creating this learning experience.
